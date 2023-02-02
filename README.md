@@ -12,7 +12,7 @@
   <li>Records: 11,570,188</li>
   <li>File size: 36,762,558 bytes (943,967,046 bytes uncompressed)</li>
   <li>Number of files: 42</li>
-  <li>Location: <a href="s3://emd-coding-challenge/covid-19-aqi/aqi/daily_aqi_by_county_1980.csv.bz2">s3://emd-coding-challenge/covid-19-aqi/aqi/daily_aqi_by_county_1980.csv.bz2</a> to <a href="s3://emd-coding-challenge/covid-19-aqi/aqi/daily_aqi_by_county_2021.csv.bz2">s3://emd-coding-challenge/covid-19-aqi/aqi/daily_aqi_by_county_2021.csv.bz2</a></li>
+  <li>Location: <a href="https://aqs.epa.gov/aqsweb/airdata/download_files.html"</a></li>
 </ul>
 
 <h3>COVID-19 Case Surveillance Public Use Data with Geography</h3>
