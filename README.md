@@ -12,7 +12,7 @@
   <li>Records: 11,570,188</li>
   <li>File size: 36,762,558 bytes (943,967,046 bytes uncompressed)</li>
   <li>Number of files: 42</li>
-  <li>Location: <a href="https://aqs.epa.gov/aqsweb/airdata/download_files.html"</a></li>
+  <li>Location: <a href="https://aqs.epa.gov/aqsweb/airdata/download_files.html">https://aqs.epa.gov/aqsweb/airdata/download_files.html</a>.</li>
 </ul>
 
 <h3>COVID-19 Case Surveillance Public Use Data with Geography</h3>
@@ -20,7 +20,7 @@
   <li>Time frame: 2020-01-01 to 2021-11-09</li>
   <li>Records: 37,532,072</li>
   <li>File size: 109,903,673 bytes (5,304,693,020 bytes uncompressed)</li>
-  <li>Location: <a href="s3://emd-coding-challenge/covid-19-aqi/covid19/cases.csv.bz2">s3://emd-coding-challenge/covid-19-aqi/covid19/cases.csv.bz2</a>.</li>
+  <li>Location: <a href="https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4">https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4</a>.</li>
 </ul>
 
 <h2>Questions</h2>
